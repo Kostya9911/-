@@ -1,0 +1,7 @@
+<img
+  srcset="./images/works/img-1@1x.jpg 1x, ./images/works/img-1@2x.jpg 2x"
+  src="./images/works/img-1@1x.jpg"
+  alt="Десктопні додатки"
+  width="370"
+  height="294"
+/>
